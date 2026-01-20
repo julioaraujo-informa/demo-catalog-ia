@@ -8,7 +8,7 @@ Cada catálogo possui uma lista de **arquivos independentes**, que pode ser inst
 
 ## 📂 Agents Disponíveis
 
-| Agent | Descrição | Instalação |
+| Catálogo | Descrição | Instalação |
 |------|----------|-----------|
 | 🔍 **AGENTS** | Catálogo de Agents | [Acessar](./agents/README.md) |
 | 🔍 **SKILLS** | Catálogo de Skills | [Acessar](./skills/README.md) |
