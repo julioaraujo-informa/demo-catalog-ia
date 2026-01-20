@@ -1,8 +1,8 @@
-# 🤖 Agents Collection - Marlabs
+# 🤖 Collections - Marlabs
 
-Este repositório reúne uma coleção de **agents de IA para Visual Studio Code**.
+Este repositório reúne uma coleção de **agents, skills, prompts, instructions e collections de IA para Visual Studio Code**.
 
-Cada agent é um **arquivo independente**, que pode ser instalado ou configurado no VS Code conforme a extensão de IA utilizada (ex: GitHub Copilot, extensões de agents customizados, etc.).
+Cada catálogo possui uma lista de **arquivos independentes**, que pode ser instalado ou configurado no VS Code conforme a extensão de IA utilizada (ex: GitHub Copilot, extensões de agents customizados, etc.).
 
 ---
 
@@ -10,24 +10,10 @@ Cada agent é um **arquivo independente**, que pode ser instalado ou configurado
 
 | Agent | Descrição | Instalação |
 |------|----------|-----------|
-| 🔍 **Code Review Agent** | Analisa código, sugere melhorias, identifica bugs e más práticas | [Copiar Agent](./agents/code-review.agent.md) |
-
-> ➕ Novos agents serão adicionados continuamente.
-
----
-
-## 🧠 O que é um Agent?
-
-Um agent é um **arquivo de configuração ou prompt** que orienta a IA a atuar com um objetivo específico.
-
----
-
-### 📥 Como importar um agent no VS Code
-
-1. Clique em **Copiar agent**
-2. Copie todo o conteúdo do arquivo
-3. No VS Code, crie o arquivo:
-   .github/agents/name-agent.agent.md
-4. Cole o conteúdo e salve
+| 🔍 **AGENTS** | Catálogo de Agents | [Acessar](./agents/README.md) |
+| 🔍 **SKILLS** | Catálogo de Skills | [Acessar](./skills/README.md) |
+| 🔍 **PROMPTS** | Catálogo de Prompts | [Acessar](./prompts/README.md) |
+| 🔍 **INSTRUCTIONS** | Catálogo de Instructions | [Acessar](./instructions/README.md) |
+| 🔍 **COLLECTIONS** | Catálogo de Collections | [Acessar](./collections/README.md) |
 
 ---
