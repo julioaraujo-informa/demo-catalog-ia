@@ -1,6 +1,6 @@
-# 🤖 VS Code Agents Collection
+# 🤖 Agents Collection - Marlabs
 
-Este repositório reúne uma coleção de **agents de IA para Visual Studio Code**, focados em **code review, qualidade de código e produtividade**.
+Este repositório reúne uma coleção de **agents de IA para Visual Studio Code**.
 
 Cada agent é um **arquivo independente**, que pode ser instalado ou configurado no VS Code conforme a extensão de IA utilizada (ex: GitHub Copilot, extensões de agents customizados, etc.).
 
@@ -18,12 +18,7 @@ Cada agent é um **arquivo independente**, que pode ser instalado ou configurado
 
 ## 🧠 O que é um Agent?
 
-Um agent é um **arquivo de configuração ou prompt** que orienta a IA a atuar com um objetivo específico, como:
-
-- Revisar código
-- Aplicar boas práticas
-- Sugerir refatorações
-- Validar padrões de projeto
+Um agent é um **arquivo de configuração ou prompt** que orienta a IA a atuar com um objetivo específico.
 
 ---
 
