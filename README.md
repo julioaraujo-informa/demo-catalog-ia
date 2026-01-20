@@ -10,7 +10,7 @@ Cada agent é um **arquivo independente**, que pode ser instalado ou configurado
 
 | Agent | Descrição | Instalação |
 |------|----------|-----------|
-| 🔍 **Code Review Agent** | Analisa código, sugere melhorias, identifica bugs e más práticas | [Instalar](./agents/code-review-agent.md) |
+| 🔍 **Code Review Agent** | Analisa código, sugere melhorias, identifica bugs e más práticas | [Instalar](./agents/code-review.agent.md) |
 
 > ➕ Novos agents serão adicionados continuamente.
 
