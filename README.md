@@ -10,7 +10,7 @@ Cada agent é um **arquivo independente**, que pode ser instalado ou configurado
 
 | Agent | Descrição | Instalação |
 |------|----------|-----------|
-| 🔍 **Code Review Agent** | Analisa código, sugere melhorias, identifica bugs e más práticas | [Instalar](./agents/code-review.agent.md) |
+| 🔍 **Code Review Agent** | Analisa código, sugere melhorias, identifica bugs e más práticas | [Copiar Agent](./agents/code-review.agent.md) |
 
 > ➕ Novos agents serão adicionados continuamente.
 
@@ -27,26 +27,12 @@ Um agent é um **arquivo de configuração ou prompt** que orienta a IA a atuar 
 
 ---
 
-## 🚀 Como usar os agents no VS Code
+### 📥 Como importar um agent no VS Code
 
-### Passo 1: Escolha o agent
-
-Clique no link **Instalar** do agent desejado na tabela acima.
-
----
-
-### Passo 2: Copie o conteúdo do agent
-
-Abra o arquivo do agent no GitHub e copie todo o conteúdo.
+1. Clique em **Copiar agent**
+2. Copie todo o conteúdo do arquivo
+3. No VS Code, crie o arquivo:
+   .github/agents/name-agent.agent.md
+4. Cole o conteúdo e salve
 
 ---
-
-### Passo 3: Crie o agent no VS Code
-
-Dependendo da extensão utilizada, siga um dos caminhos abaixo:
-
-#### 🔹 GitHub Copilot (Custom Instructions / Prompt)
-
-1. Abra o **VS Code**
-2. Pressione `Ctrl + Shift + P`
-3. Procure por:
